@@ -1,0 +1,1 @@
+include ':YunJiSDKDemo', ':yunji-sdk-handler', ':test_hotel'

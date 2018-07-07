@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YunJiSDKDemo</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="robot_info_label">机器人基础信息</string>
+    <string name="subcribe_action_label">订阅广播</string>
+    <string name="open_action_label">开门</string>
+    <string name="close_action_label">关门</string>
+    <string name="move_action_label">移动点位</string>
+    <string name="cancel_action_label">取消移动</string>
+    <string name="force_charge_label">回去充电</string>
+    <string name="task_status_label">任务状态</string>
+    <string name="get_all_point">获取全部的点位</string>
+    <string name="settarget_noback_label">发任务(不自动返程，不打电话，任务结束才会返回)</string>
+    <string name="settarget_witdh_callback">发任务(自动返回|回调)</string>
+    <string name="settarget_noback_with_callback">发任务(不返程|带回调)</string>
+    <string name="flow_label">发任务（多点任务）</string>
+    <string name="get_lang_label">获取当前语言</string>
+    <string name="set_lang_label">设置当前语言</string>
+    <string name="get_hotel_id">获取酒店ID</string>
+    <string name="get_ad_enabel">获取站定语音开关</string>
+    <string name="set_ad_enabel">设置站定语音开关</string>
+    <string name="get_robot_no"> 获取机器人编号</string>
+    <string name="get_volume_label">获取音量</string>
+    <string name="set_volume_label">设置音量</string>
+    <string name="get_version_label">获取版本号</string>
+    <string name="pay_label">说话</string>
+    <string name="start_cruise_label">开始巡游</string>
+
+</resources>
